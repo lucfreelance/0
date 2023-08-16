@@ -68,9 +68,11 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
 
-### Nice Guidelines
+### Nice Commands
 
-La instalación de los paquetes npm se completó correctamente, puedes seguir los pasos para construir y ejecutar tu proyecto utilizando los comandos npm scripts mencionados.
+- npm run start
+
+- La instalación de los paquetes npm se completó correctamente, puedes seguir los pasos para construir y ejecutar tu proyecto utilizando los comandos npm scripts mencionados.
 
 La secuencia de comandos que podrías seguir para construir y ejecutar tu proyecto es la siguiente:
 
