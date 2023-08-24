@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A one page HTML template built with Bootstrap",
+    "description": "Portfolio for Lucfreelance",
     "keywords": [
         "css",
         "sass",
@@ -21,7 +21,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/one-page-wonder",
+    "homepage": "https://lucfreelance.vercel.app/",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-one-page-wonder/issues",
         "email": "feedback@startbootstrap.com"
