@@ -68,19 +68,137 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
 
-### Develop Tools
+### Development Tools
 
--   :triangular_ruler: Bootstrap
--   :computer: Node
--   :octocat: GitHub
+-   **Frontend:**
 
-- ![Bootstrap](url_del_icono_bootstrap) Bootstrap
-- ![Node](url_del_icono_node) Node
-- ![GitHub](url_del_icono_github) GitHub
+    -   :triangular_ruler: Bootstrap
+    -   :globe_with_meridians: React
+    -   :hammer_and_wrench: Angular
+    -   :gear: Vue.js
+    -   :dart: Flutter
+    -   :art: Sass
+    -   :bulb: jQuery
+    -   :triangular_ruler: Hugo
+    -   :gem: Jekyll
+    -   :globe_with_meridians: NextJS
+    -   :triangular_ruler: Eleventy
+    -   :rocket: Vite
+    -   :dizzy: Astro
+
+-   **Backend:**
+
+    -   :computer: Node
+    -   :electric_plug: Express.js
+    -   :gear: cPanel
+    -   :file_folder: Django
+    -   :gear: Ruby on Rails
+    -   :gear: Spring Boot
+    -   :gear: ASP.NET
+    -   :gear: Flask
+    -   :gear: CodeIgniter
+    -   :gear: Play Framework
+    -   :gear: Xamarin
+    -   :gear: Apache Spark
+    -   :gear: ASP.NET
+
+-   **Version Control:**
+
+    -   :octocat: GitHub
+    -   :whale: GitLab CI/CD
+    -   :bar_chart: SourceTree
+
+-   **IDEs and Editors:**
+
+    -   :wrench: Visual Studio Code
+    -   :atom: Atom
+    -   :memo: Notepad++
+
+-   **Databases and Storage:**
+
+    -   :floppy_disk: MongoDB
+    -   :mag: Elasticsearch
+    -   :fire: Firebase
+    -   :floppy_disk: MySQL
+
+-   **Build and Deployment:**
+
+    -   :building_construction: Docker
+    -   :cloud: AWS (Amazon Web Services)
+    -   :cloud: Microsoft Azure
+    -   :cloud: Google Cloud
+    -   :rocket: Rocket.Chat
+    -   :construction_worker: Jenkins
+    -   :gear: Gradle
+    -   :hammer_and_wrench: Webpack
+
+-   **Data Visualization:**
+
+    -   :bar_chart: D3.js
+    -   :bar_chart: Chart.js
+    -   :bar_chart: Highcharts
+
+-   **Languages and Frameworks:**
+
+    -   :pencil2: TypeScript
+    -   :gem: Ruby
+    -   :iphone: Swift
+    -   :gear: .NET Core
+    -   :gear: JHipster
+    -   :triangular_ruler: Bootstrap
+    -   :gear: Ruby on Rails
+    -   :gear: Vue.js
+    -   :file_folder: Django
+    -   :gear: Laravel
+    -   :factory: Gulp
+    -   :gear: Hugo
+    -   :sunglasses: Go
+
+-   **Testing and Automation:**
+    -   :robot: Selenium
+    -   :construction_worker: Jenkins
+    -   :microscope: Jest
+
+#### Develop Tools - Positiva
+
+-   :wrench: Visual Studio Code
+-   :globe_with_meridians: React
+-   :electric_plug: Express.js
+-   :hammer_and_wrench: Angular
+-   :bulb: jQuery
+-   :dart: Flutter
+-   :building_construction: Docker
+-   :crystal_ball: Kubernetes
+-   :gear: Spring Boot
+-   :robot: Selenium
+-   :gear: Gradle
+-   :rocket: Rocket.Chat
+-   :pencil2: TypeScript
+-   :art: Sass
+-   :gem: Ruby
+-   :iphone: Swift
+-   :bar_chart: D3.js
+-   :hammer_and_wrench: Webpack
+-   :lock_with_ink_pen: OAuth
+-   :gear: .NET Core
+-   :mag: Elasticsearch
+-   :gear: Flask
+-   :gear: CodeIgniter
+-   :gear: Play Framework
+-   :gear: Xamarin
 
 ### Nice Commands
 
+#### Nice Commands - /
+
+-   npm
+
+#### Nice Commands - /
+
 -   npm run start
+-   npm start
+
+-   npm run build (Para visualizar el proyecto en tu navegador y obtener una vista previa en tiempo real mientras haces cambios en los archivos de origen (como Pug, SCSS o JS))
 
 -   npm run clean (Limpia la carpeta "dist" para preparar el proyecto para una nueva construcción)
 
@@ -97,7 +215,6 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
 -   npm run build:scss
     Finalmente, puedes construir el proyecto en su totalidad ejecutando el siguiente comando, que realizará todos los pasos anteriores en un solo comando:
 
--   npm run build
-    Para visualizar el proyecto en tu navegador y obtener una vista previa en tiempo real mientras haces cambios en los archivos de origen (como Pug, SCSS o JS), puedes ejecutar:
-
--   npm start
+<!-- - ![Bootstrap](url_del_icono_bootstrap) Bootstrap
+- ![Node](url_del_icono_node) Node
+- ![GitHub](url_del_icono_github) GitHub -->
