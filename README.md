@@ -41,7 +41,7 @@ After downloading, simply edit the HTML and CSS files included with `dist` direc
 
 Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-#### npm Scripts
+### npm Scripts
 
 -   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
 -   `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
@@ -77,7 +77,7 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
 
-### Development Tools
+## Development Tools
 
 -   **Frontend:**
 
@@ -168,7 +168,7 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
     -   :construction_worker: Jenkins
     -   :microscope: Jest
 
-#### Develop Tools - Positiva
+## Develop Tools - Positiva
 
 -   :wrench: Visual Studio Code
 -   :globe_with_meridians: React
@@ -196,20 +196,16 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
 -   :gear: Play Framework
 -   :gear: Xamarin
 
-### Nice Commands
+## Nice Commands
 
-#### Nice Commands - /
+-   npm init
 
--   npm
-
-#### Nice Commands - /
+## Nice Commands - /
 
 -   npm run start
 -   npm start
-
--   npm run build (Para visualizar el proyecto en tu navegador y obtener una vista previa en tiempo real mientras haces cambios en los archivos de origen (como Pug, SCSS o JS))
-
--   npm run clean (Limpia la carpeta "dist" para preparar el proyecto para una nueva construcción)
+-   npm run clean
+-   npm run buildara preparar el proyecto para una nueva construcción)
 
 -   npm run build:assets (Copia los archivos de la carpeta "src/assets/" a la carpeta "dist")
 
@@ -223,7 +219,3 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
 
 -   npm run build:scss
     Finalmente, puedes construir el proyecto en su totalidad ejecutando el siguiente comando, que realizará todos los pasos anteriores en un solo comando:
-
-<!-- - ![Bootstrap](url_del_icono_bootstrap) Bootstrap
-- ![Node](url_del_icono_node) Node
-- ![GitHub](url_del_icono_github) GitHub -->
