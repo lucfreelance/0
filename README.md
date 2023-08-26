@@ -1,19 +1,20 @@
-#Portfolio 2023 by @lucfreelance <lucfreelance@gmail.com>
+# Portfolio 2023 by @lucfreelance <lucfreelance@gmail.com>
 
-Contains websites framed from related frameworks and build languages:
+Contains websites framed from famous frameworks and build languages:
 
 -   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _1_ [Positiva Cali](http://positiva-cali.vercel.app/) | ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 -   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _2_ [Reto PC](http://lucfreelance.github.io/reto-pc/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
 -   ![](https://img.icons8.com/color/48/000000/jekyll.png) _3_ [Komensales](http://lucfreelance.github.io/komensales/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
--   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspace](http://ultraspace.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png)
--   ![](https://img.icons8.com/color/48/000000/astro.png) _5_ [Colombiartesos](http://colombiartesos.vercel.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+-   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspace](http://ultraspace.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) _8_ [TDRDT](http://lucfreelance.github.io/tdrdt/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
 -   ![](https://img.icons8.com/color/48/000000/astro.png) _6_ [Date Off](http://dateoff.netlify.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
 -   ![](https://img.icons8.com/color/48/000000/eleventy.png) _7_ [Voilatin](http://voilatin.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png)
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) _8_ [TDRDT](http://lucfreelance.github.io/tdrdt/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
 -   ![](https://img.icons8.com/color/48/000000/javascript.png) _9_ [oi-ia](http://oportunidadesilimitadas.com/) | ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png)
 -   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _0_ [Lucfreelance 2023 Portfolio](https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 
-## Based in [Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
+## Based in
+
+[Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
 
 This project was builded from [One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/) is a basic one page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -41,7 +42,7 @@ After downloading, simply edit the HTML and CSS files included with `dist` direc
 
 Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-### npm Scripts
+## npm Scripts
 
 -   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
 -   `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
@@ -198,14 +199,10 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
 
 ## Nice Commands
 
--   npm init
-
-## Nice Commands - /
-
 -   npm run start
 -   npm start
 -   npm run clean
--   npm run buildara preparar el proyecto para una nueva construcción)
+-   npm run buil (para preparar el proyecto para una nueva construcción)
 
 -   npm run build:assets (Copia los archivos de la carpeta "src/assets/" a la carpeta "dist")
 
