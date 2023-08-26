@@ -1,12 +1,21 @@
-# [Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
+#Portfolio 2023 by @lucfreelance <lucfreelance@gmail.com>
 
-[One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/) is a basic one page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+Contains websites framed from related frameworks and build languages:
 
-## Preview
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _1_ [Positiva Cali](http://positiva-cali.vercel.app/) | ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _2_ [Reto PC](http://lucfreelance.github.io/reto-pc/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) _3_ [Komensales](http://lucfreelance.github.io/komensales/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+-   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspace](http://ultraspace.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png)
+-   ![](https://img.icons8.com/color/48/000000/astro.png) _5_ [Colombiartesos](http://colombiartesos.vercel.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+-   ![](https://img.icons8.com/color/48/000000/astro.png) _6_ [Date Off](http://dateoff.netlify.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
+-   ![](https://img.icons8.com/color/48/000000/eleventy.png) _7_ [Voilatin](http://voilatin.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) _8_ [TDRDT](http://lucfreelance.github.io/tdrdt/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+-   ![](https://img.icons8.com/color/48/000000/javascript.png) _9_ [oi-ia](http://oportunidadesilimitadas.com/) | ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _0_ [Lucfreelance 2023 Portfolio](https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 
-[![One Page Wonder Preview](https://assets.startbootstrap.com/img/screenshots/themes/one-page-wonder.png)](https://startbootstrap.github.io/startbootstrap-one-page-wonder/)
+## Based in [Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-one-page-wonder/)**
+This project was builded from [One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/) is a basic one page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Status
 
@@ -17,10 +26,10 @@
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
-* Install via npm: `npm i startbootstrap-one-page-wonder`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
+-   [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
+-   Install via npm: `npm i startbootstrap-one-page-wonder`
+-   Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
+-   [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
 
 ## Usage
 
@@ -34,14 +43,14 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 #### npm Scripts
 
-* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-* `npm run start:debug` runs the project in debug mode
-* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+-   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+-   `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+-   `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+-   `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+-   `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+-   `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+-   `npm run start:debug` runs the project in debug mode
+-   `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
 You must have npm installed in order to use this build environment.
 
@@ -53,14 +62,14 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
+-   <https://startbootstrap.com>
+-   <https://twitter.com/SBootstrap>
 
 Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+-   <https://davidmiller.io>
+-   <https://twitter.com/davidmillerhere>
+-   <https://github.com/davidtmiller>
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
@@ -68,44 +77,153 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
 
-### Nice Guidelines
+### Development Tools
 
-La instalación de los paquetes npm se completó correctamente, puedes seguir los pasos para construir y ejecutar tu proyecto utilizando los comandos npm scripts mencionados.
+-   **Frontend:**
 
-La secuencia de comandos que podrías seguir para construir y ejecutar tu proyecto es la siguiente:
+    -   :triangular_ruler: Bootstrap
+    -   :globe_with_meridians: React
+    -   :hammer_and_wrench: Angular
+    -   :gear: Vue.js
+    -   :dart: Flutter
+    -   :art: Sass
+    -   :bulb: jQuery
+    -   :triangular_ruler: Hugo
+    -   :gem: Jekyll
+    -   :globe_with_meridians: NextJS
+    -   :triangular_ruler: Eleventy
+    -   :rocket: Vite
+    -   :dizzy: Astro
 
-Limpia la carpeta "dist" para preparar el proyecto para una nueva construcción:
-bash
-Copy code
-npm run clean
-Copia los archivos de la carpeta "src/assets/" a la carpeta "dist":
-bash
-Copy code
-npm run build:assets
-Compila los archivos Pug ubicados en la carpeta "src/pug/" y los coloca en la carpeta "dist":
-bash
-Copy code
-npm run build:pug
-Trae el archivo "src/js/scripts.js" a la carpeta "dist":
-bash
-Copy code
-npm run build:scripts
-Compila los archivos SCSS ubicados en la carpeta "src/scss/" y los coloca en la carpeta "dist":
-bash
-Copy code
-npm run build:scss
-Finalmente, puedes construir el proyecto en su totalidad ejecutando el siguiente comando, que realizará todos los pasos anteriores en un solo comando:
-bash
-Copy code
-npm run build
-Para visualizar el proyecto en tu navegador y obtener una vista previa en tiempo real mientras haces cambios en los archivos de origen (como Pug, SCSS o JS), puedes ejecutar:
-bash
-Copy code
-npm start
-Recuerda que cada comando npm script debe ejecutarse en orden y solo después de que el comando anterior haya completado su tarea. Además, asegúrate de estar ubicado en la carpeta raíz de tu proyecto (donde se encuentra el archivo package.json) antes de ejecutar los comandos.
+-   **Backend:**
 
-Siguiendo estos pasos, deberías poder construir y ejecutar tu proyecto utilizando los scripts npm proporcionados.
+    -   :computer: Node
+    -   :electric_plug: Express.js
+    -   :gear: cPanel
+    -   :file_folder: Django
+    -   :gear: Ruby on Rails
+    -   :gear: Spring Boot
+    -   :gear: ASP.NET
+    -   :gear: Flask
+    -   :gear: CodeIgniter
+    -   :gear: Play Framework
+    -   :gear: Xamarin
+    -   :gear: Apache Spark
+    -   :gear: ASP.NET
 
-Si tienes más preguntas o encuentras algún problema durante el proceso, no dudes en preguntar. ¡Buena suerte con tu proyecto!
+-   **Version Control:**
 
-### 
+    -   :octocat: GitHub
+    -   :whale: GitLab CI/CD
+    -   :bar_chart: SourceTree
+
+-   **IDEs and Editors:**
+
+    -   :wrench: Visual Studio Code
+    -   :atom: Atom
+    -   :memo: Notepad++
+
+-   **Databases and Storage:**
+
+    -   :floppy_disk: MongoDB
+    -   :mag: Elasticsearch
+    -   :fire: Firebase
+    -   :floppy_disk: MySQL
+
+-   **Build and Deployment:**
+
+    -   :building_construction: Docker
+    -   :cloud: AWS (Amazon Web Services)
+    -   :cloud: Microsoft Azure
+    -   :cloud: Google Cloud
+    -   :rocket: Rocket.Chat
+    -   :construction_worker: Jenkins
+    -   :gear: Gradle
+    -   :hammer_and_wrench: Webpack
+
+-   **Data Visualization:**
+
+    -   :bar_chart: D3.js
+    -   :bar_chart: Chart.js
+    -   :bar_chart: Highcharts
+
+-   **Languages and Frameworks:**
+
+    -   :pencil2: TypeScript
+    -   :gem: Ruby
+    -   :iphone: Swift
+    -   :gear: .NET Core
+    -   :gear: JHipster
+    -   :triangular_ruler: Bootstrap
+    -   :gear: Ruby on Rails
+    -   :gear: Vue.js
+    -   :file_folder: Django
+    -   :gear: Laravel
+    -   :factory: Gulp
+    -   :gear: Hugo
+    -   :sunglasses: Go
+
+-   **Testing and Automation:**
+    -   :robot: Selenium
+    -   :construction_worker: Jenkins
+    -   :microscope: Jest
+
+#### Develop Tools - Positiva
+
+-   :wrench: Visual Studio Code
+-   :globe_with_meridians: React
+-   :electric_plug: Express.js
+-   :hammer_and_wrench: Angular
+-   :bulb: jQuery
+-   :dart: Flutter
+-   :building_construction: Docker
+-   :crystal_ball: Kubernetes
+-   :gear: Spring Boot
+-   :robot: Selenium
+-   :gear: Gradle
+-   :rocket: Rocket.Chat
+-   :pencil2: TypeScript
+-   :art: Sass
+-   :gem: Ruby
+-   :iphone: Swift
+-   :bar_chart: D3.js
+-   :hammer_and_wrench: Webpack
+-   :lock_with_ink_pen: OAuth
+-   :gear: .NET Core
+-   :mag: Elasticsearch
+-   :gear: Flask
+-   :gear: CodeIgniter
+-   :gear: Play Framework
+-   :gear: Xamarin
+
+### Nice Commands
+
+#### Nice Commands - /
+
+-   npm
+
+#### Nice Commands - /
+
+-   npm run start
+-   npm start
+
+-   npm run build (Para visualizar el proyecto en tu navegador y obtener una vista previa en tiempo real mientras haces cambios en los archivos de origen (como Pug, SCSS o JS))
+
+-   npm run clean (Limpia la carpeta "dist" para preparar el proyecto para una nueva construcción)
+
+-   npm run build:assets (Copia los archivos de la carpeta "src/assets/" a la carpeta "dist")
+
+-   npm run build:pug (Compila los archivos Pug ubicados en la carpeta "src/pug/" y los coloca en la carpeta "dist")
+
+-   npm run build:pug
+    Trae el archivo "src/js/scripts.js" a la carpeta "dist":
+
+-   npm run build:scripts
+    Compila los archivos SCSS ubicados en la carpeta "src/scss/" y los coloca en la carpeta "dist":
+
+-   npm run build:scss
+    Finalmente, puedes construir el proyecto en su totalidad ejecutando el siguiente comando, que realizará todos los pasos anteriores en un solo comando:
+
+<!-- - ![Bootstrap](url_del_icono_bootstrap) Bootstrap
+- ![Node](url_del_icono_node) Node
+- ![GitHub](url_del_icono_github) GitHub -->
