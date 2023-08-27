@@ -67,7 +67,7 @@ section#scroll
                         each tech in ['Hugo · ', 'Go · ', 'SCSS · ', ' Cypress · ', 'Vercel']
                             | #{tech}
                     span.techs
-                    a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//positiva-cali.vercel.app/' target='_blank') Positiva Cali
+                    a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//positiva-cali.vercel.app/' target='_blank' rel='noopener noreferrer') Positiva Cali
 
 
 
@@ -87,7 +87,7 @@ section#scroll
                                 each tech in ['Bootstrap · ', 'JavaScript · ', 'Jest · ', 'GHPages']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/reto-pc/' target='_blank') Reto PC
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/reto-pc/' target='_blank' rel='noopener noreferrer') Reto PC
 
         // Content section 3
         section
@@ -105,7 +105,7 @@ section#scroll
                                 each tech in ['Jekyll · ', 'JavaScript · ', ' Mocha · ', 'GHPages']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/komensal/' target='_blank') Komensal
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/komensal/' target='_blank' rel='noopener noreferrer') Komensal
 
         // Content section 4
         section
@@ -123,7 +123,7 @@ section#scroll
                                 each tech in ['Vite-ReactJS · ', 'PNPM · ', 'Netlify · ', 'Vitest']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//ultraspaces.netlify.app/' target='_blank') ultraspaces
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//ultraspaces.netlify.app/' target='_blank' rel='noopener noreferrer') ultraspaces
 
         // Content section 5
         section
@@ -141,7 +141,7 @@ section#scroll
                                 each tech in ['Jekyll · ', 'PHP · ', ' Mocha · ', 'GHPages']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/tdrdt/' target='_blank') TDRDT
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/tdrdt/' target='_blank' rel='noopener noreferrer') TDRDT
 
         // Content section 6
         section
@@ -159,7 +159,7 @@ section#scroll
                                 each tech in ['Astro · ', 'Electron · ', 'Selenium · ', 'Netlify']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//dateoff.netlify.app/' target='_blank') Date Off
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//dateoff.netlify.app/' target='_blank' rel='noopener noreferrer') Date Off
 
 
         // Content section 7
@@ -178,7 +178,7 @@ section#scroll
                                 each tech in [ 'Elevently · ', 'Nunjucks · ', 'TP.e11y · ', 'Vercel']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//voilatin.vercel.app/' target='_blank')  Voilatin
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//voilatin.vercel.app/' target='_blank' rel='noopener noreferrer')  Voilatin
 
         // Content section 8
         section
@@ -196,12 +196,21 @@ section#scroll
                                 each tech in ['Vanilla · ', 'PHP · ', 'Jekyll · ', 'AI', 'Vitest']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//oportunidadesilimitadas.com' target='_blank') oi-ia 
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//oportunidadesilimitadas.com' target='_blank' rel='noopener noreferrer') oi-ia 
 
-        // Footer
-        footer.py-5.bg-black
-            .container.px-5
-                p.m-0.text-center.text-white.small Copyright &copy; Start BootStrap · Frame developed by @lucfreelance and all websites also · Copy, content, graphic design by Soe Lucas · Images by Pexels
+// Footer
+footer.py-5.bg-black
+    .container.px-5
+        p.m-0.text-center.text-white.small
+            | &copy; 
+            a(href='//github.com/StartBootstrap/startbootstrap-one-page-wonder' target='_blank' rel='noopener noreferrer') Start BootStrap frame
+            | · Developed by @lucfreelance with all other websites from this portfolio
+            | · Copy, content, graphic design by Lucfreelance · Images by 
+            a(href='//pexels.com' target='_blank' rel='noopener noreferrer') Pexels 
+            | and 
+            a(href='//pixabay.com' target='_blank' rel='noopener noreferrer') Pixabay
+
+        
 
         // Bootstrap core JS
         script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js')
