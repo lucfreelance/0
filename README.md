@@ -2,14 +2,22 @@
 
 Contains websites framed from famous frameworks and build languages:
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _1_ [Positiva Cali](http://positiva-cali.vercel.app/) | ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 -   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _2_ [Reto PC](http://lucfreelance.github.io/reto-pc/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) _3_ [Komensales](http://lucfreelance.github.io/komensales/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
--   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspace](http://ultraspace.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) _3_ [Komensal](http://lucfreelance.github.io/komensal/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+
+-   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspaces](http://ultraspaces.netlify.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+
 -   ![](https://img.icons8.com/color/48/000000/jekyll.png) _8_ [TDRDT](http://lucfreelance.github.io/tdrdt/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
--   ![](https://img.icons8.com/color/48/000000/astro.png) _6_ [Date Off](http://dateoff.netlify.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
+
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _1_ [Positiva Cali](http://positiva-cali.vercel.app/) | ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+
 -   ![](https://img.icons8.com/color/48/000000/eleventy.png) _7_ [Voilatin](http://voilatin.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png)
+
 -   ![](https://img.icons8.com/color/48/000000/javascript.png) _9_ [oi-ia](http://oportunidadesilimitadas.com/) | ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png)
+
+-   ![](https://img.icons8.com/color/48/000000/astro.png) _6_ [Date Off](http://dateoff.netlify.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
+
 -   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _0_ [Lucfreelance 2023 Portfolio](https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 
 ## Based in
@@ -21,6 +29,7 @@ This project was builded from [One Page Wonder](https://startbootstrap.com/theme
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-one-page-wonder/master/LICENSE)
+
 [![npm version](https://img.shields.io/npm/v/startbootstrap-one-page-wonder.svg)](https://www.npmjs.com/package/startbootstrap-one-page-wonder)
 
 ## Download and Installation
@@ -28,8 +37,11 @@ This project was builded from [One Page Wonder](https://startbootstrap.com/theme
 To begin using this template, choose one of the following options to get started:
 
 -   [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
+
 -   Install via npm: `npm i startbootstrap-one-page-wonder`
+
 -   Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
+
 -   [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
 
 ## Usage
@@ -44,39 +56,23 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 ## npm Scripts
 
--   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
--   `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
--   `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
--   `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
--   `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
--   `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
--   `npm run start:debug` runs the project in debug mode
--   `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
 You must have npm installed in order to use this build environment.
 
-## Bugs and Issues
+-   `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/).
+-   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
 
-## About
+-   `npm run build:assets` compiles the files in the `src/assets/` directory into `dist`
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+-   `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
 
--   <https://startbootstrap.com>
--   <https://twitter.com/SBootstrap>
+-   `npm run build:scripts` compiles the `src/js/scripts.js` file into `dist`
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+-   `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
 
--   <https://davidmiller.io>
--   <https://twitter.com/davidmillerhere>
--   <https://github.com/davidtmiller>
+-   `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
+-   `npm run start:debug` runs the project in debug mode
 
 ## Development Tools
 
@@ -199,20 +195,41 @@ Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://g
 
 ## Nice Commands
 
--   npm run start
--   npm start
--   npm run clean
--   npm run buil (para preparar el proyecto para una nueva construcción)
+-   `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
--   npm run build:assets (Copia los archivos de la carpeta "src/assets/" a la carpeta "dist")
+-   `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
 
--   npm run build:pug (Compila los archivos Pug ubicados en la carpeta "src/pug/" y los coloca en la carpeta "dist")
+-   `npm run build:assets` compiles the files in the `src/assets/` directory into `dist`
 
--   npm run build:pug
-    Trae el archivo "src/js/scripts.js" a la carpeta "dist":
+-   `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
 
--   npm run build:scripts
-    Compila los archivos SCSS ubicados en la carpeta "src/scss/" y los coloca en la carpeta "dist":
+-   `npm run build:scripts` compiles the `src/js/scripts.js` file into `dist`
 
--   npm run build:scss
-    Finalmente, puedes construir el proyecto en su totalidad ejecutando el siguiente comando, que realizará todos los pasos anteriores en un solo comando:
+-   `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+
+-   `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+
+-   `npm run start:debug` runs the project in debug mode
+
+### Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/).
+
+### About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+-   <https://startbootstrap.com>
+-   <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+
+-   <https://davidmiller.io>
+-   <https://twitter.com/davidmillerhere>
+-   <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+### Copyright and License
+
+Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE) license.
