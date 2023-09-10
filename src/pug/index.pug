@@ -8,7 +8,7 @@ html(lang='en')
         meta(name='description', content='')
         meta(name='author', content='')
 
-        title Lucfreelance - Frontend developer 2023 portfolio 
+        title Lucfreelance - Frontend developer showcase 2023
 
         link(rel='icon', type='image/x-icon', href='assets/favicon.ico')
 
@@ -57,16 +57,19 @@ section#scroll
         .row.gx-5.align-items-center
             .col-lg-6.order-lg-2
                 .p-5
-                    img.img-fluid.rounded-circle(src='assets/img/lf.png', alt='Last clients')
+                    img.img-fluid.rounded-circle(src='assets/img/cvt.png', alt='Last client')
             .col-lg-6.order-lg-1
                 .p-5
-                    h2.display-4 Last clients
+                    h2.display-4 Last client:
+                    h3.display-6 Cali VIP Tours
+                    h4.display-8 "It’s all about the experience!"
                     p
-                        | My clients are first, that's way I would you take a look over some of then. Here is were I put my extra mile effort when it's necessary. So you can tell me how can I help you with.
-                    a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='.') Last clients
-
-
-
+                        | "Discover the hidden gems of Cali and create lasting memories with our expert guides. Find a selection of six incredible tours that will showcase the diverse beauty and culture of Cali and its surroundings…"
+                    span.techs
+                                each tech in ['Hugo · ', 'Open Graph · ', 'i18n']
+                                    | #{tech}
+                    span.techs
+                        a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//caliviptours.netlify.app/' target='_blank' rel='noopener noreferrer') Cali VIP Tours
 
         // Content section 2
         section
@@ -84,7 +87,7 @@ section#scroll
                                 each tech in ['Bootstrap · ', 'JavaScript · ', 'Jest · ', 'GHPages']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/reto-pc/' target='_blank' rel='noopener noreferrer') Reto PC
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//lucfreelance.github.io/reto-pc/') Reto PC
 
         // Content section 3
         section
@@ -120,7 +123,7 @@ section#scroll
                                 each tech in ['Vite-ReactJS · ', 'PNPM · ', 'Netlify · ', 'Vitest']
                                     | #{tech}
                             span.techs
-                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//ultraspaces.netlify.app/' target='_blank' rel='noopener noreferrer') ultraspaces
+                                a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//ultraspaces.netlify.app/spaces' target='_blank' rel='noopener noreferrer') ultraspaces
 
         // Content section 5
         section
