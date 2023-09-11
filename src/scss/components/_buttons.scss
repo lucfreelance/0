@@ -1,6 +1,6 @@
-// 
+//
 // Buttons
-// 
+//
 
 .btn-xl {
     text-transform: uppercase;
@@ -8,4 +8,9 @@
     font-size: 0.9rem;
     font-weight: 700;
     letter-spacing: 0.1rem;
+
+    @media (max-width: 768px) {
+        padding: 1rem 2rem; // Adjust padding for mobile
+        font-size: 0.8rem; // Adjust font size for mobile
+    }
 }

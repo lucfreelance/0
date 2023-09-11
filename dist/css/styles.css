@@ -10832,6 +10832,12 @@ html {
   font-weight: 700;
   letter-spacing: 0.1rem;
 }
+@media (max-width: 768px) {
+  .btn-xl {
+    padding: 1rem 2rem;
+    font-size: 0.8rem;
+  }
+}
 
 .navbar-custom {
   padding-top: 1rem;
@@ -10854,8 +10860,8 @@ html {
 header.masthead {
   position: relative;
   overflow: hidden;
-  padding-top: calc(7rem + 72px);
-  padding-bottom: 7rem;
+  padding-top: calc(6rem + 72px);
+  padding-bottom: 6rem;
   background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
   background-repeat: no-repeat;
   background-position: center center;
