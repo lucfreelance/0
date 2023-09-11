@@ -1,48 +1,44 @@
 doctype html
 html(lang='en')
 
+    // Head
     head
-
         meta(charset='utf-8')
         meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
         meta(name='description', content='')
         meta(name='author', content='')
-
         title Lucfreelance - Frontend developer showcase 2023
-
         link(rel='icon', type='image/x-icon', href='assets/favicon.ico')
-
         // Font Awesome icons (free version)
         script(src='https://use.fontawesome.com/releases/v6.3.0/js/all.js', crossorigin='anonymous')
-
         // Google fonts
         link(href='https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900' rel='stylesheet')
         link(href='https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i' rel='stylesheet')
-
         // Core theme CSS (includes Bootstrap)
         link(href='css/styles.css', rel='stylesheet')
 
+    // Body Page Top
     body#page-top
 
-        // Navigation
-        nav.navbar.navbar-expand-lg.navbar-dark.navbar-custom.fixed-top
-            .container.px-5
-                a.navbar-brand(href='#page-top') Lucfreelance
-                button.navbar-toggler(type='button', data-bs-toggle='collapse', data-bs-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
-                    span.navbar-toggler-icon
-                #navbarResponsive.collapse.navbar-collapse
-                    ul.navbar-nav.ms-auto
-                        li.nav-item
-                            a.nav-link(href='https://wa.me/573157742332?text=Hola,%20me%20interesa%20un%20servicio%20de%20tu%20página%20web%20') WhatsApp
-                        li.nav-item
-                            a.nav-link(href='mailto:lucfreelance@gmail.com?subject=Interesado%20en%20un%20servicio%20de%20Lucfreelance&body=Hola,%20estoy%20interesado%20en%20obtener%20más%20información%20sobre%20tu%20servicio%20de%20') Email
+    // Navigation
+    nav.navbar.navbar-expand-lg.navbar-dark.navbar-custom.fixed-top
+        .container.px-5
+            a.navbar-brand(href='#page-top') Lucfreelance
+            button.navbar-toggler(type='button', data-bs-toggle='collapse', data-bs-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                span.navbar-toggler-icon
+            #navbarResponsive.collapse.navbar-collapse
+                ul.navbar-nav.ms-auto
+                    li.nav-item
+                        a.nav-link(href='https://wa.me/573157742332?text=Hello,%20interested%20in%20your%20services' target='_blank' rel='noopener noreferrer') WhatsApp
+                    li.nav-item
+                        a.nav-link(href='mailto:lucfreelance@gmail.com?subject=Interested%20in%20your%20services%20&body=Hello,%20I%20am%20interested%20in%20your%20service%20' target='_blank' rel='noopener noreferrer') Email
  
     // Header
     header.masthead.text-center.text-white
         .masthead-content
             .container.px-5
-                h2.masthead-heading.mb-0 Lucfreelance
-                h3.masthead-subheading.mb-0 Frontend developer 
+                h2.masthead-heading.mb-2 Lucfreelance
+                h3.masthead-subheading.mb-2 Frontend developer 
                 p
                     | Hello! I'm Lucfreelance frontend web developer. I'm capable to build modern JavaScript designs for your enterpreneur. Start a conversation (English, Spanish) if you need since a lines of code, until some dedicated digital request on PERNstack or JAMstack. I'd work with frameworks like Astro, Jekyll, Hugo, Eleventy, Bootstrap, and why not, vanilla. I like a lot to made static websites and static blogs; reach me besides for work with databases, testing, integrations… Check over my 2023 websites portfolio / side projects that I'm running. I feel confortable with remote work.
                 a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='#scroll') Let's go ⬇️
@@ -69,7 +65,7 @@ html(lang='en')
                                     each tech in ['Hugo · ', 'Open Graph · ', 'i18o']
                                         | #{tech}
                         span.techs
-                            a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//caliviptours.com/' target='_blank' rel='noopener noreferrer') Cali VIP Tours
+                            a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//caliviptours.com/' target='_blank' rel='noopener noreferrer') caliviptours.com
 
     // Content section 2
     section
@@ -159,8 +155,7 @@ html(lang='en')
                             each tech in ['Hugo · ', 'SCSS · ', ' Cypress · ', 'Vercel']
                                 | #{tech}
                         span.techs
-                            a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//voilatin.vercel.app/' target='_blank' rel='noopener noreferrer')  Positiva Cali
-
+                            a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//positiva.netlify.app/' target='_blank' rel='noopener noreferrer')  Positiva Cali
 
     // Content section 7
     section
@@ -198,7 +193,6 @@ html(lang='en')
                         span.techs
                             a.btn.btn-primary.btn-xl.rounded-pill.mt-5(href='//dateoff.netlify.app' target='_blank' rel='noopener noreferrer') Date Off
 
-
     // Content section 9
     section
         .container.px-5
@@ -228,7 +222,6 @@ html(lang='en')
                 a(href='//pexels.com' target='_blank' rel='noopener noreferrer') Pexels 
                 | and 
                 a(href='//pixabay.com' target='_blank' rel='noopener noreferrer') Pixabay
-
         
 
 // Bootstrap core JS
