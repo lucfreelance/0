@@ -2,36 +2,33 @@
 
 This digital showcase Contains websites framed from famous frameworks and code languages:
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) | [Reto PC](http://lucfreelance.github.io/reto-pc/)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
+[Reto PC](http://lucfreelance.github.io/reto-pc/)
 
 ---
 
--   ![](https://img.icons8.com/color/48/000000/vite.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png) | [ultraspaces](http://ultraspaces.netlify.app/)
+-   ![](https://img.icons8.com/color/48/000000/vite.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+[ultraspaces](http://ultraspaces.netlify.app/)
 
 ---
 
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png) | [TDRDT](http://lucfreelance.github.io/tdrdt/)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+[TDRDT](http://lucfreelance.github.io/tdrdt/)
 
 ---
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png) | [Positiva Cali](http://positiva-cali.vercel.app/)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+[Positiva Cali](http://positiva-cali.vercel.app/)
 
 ---
 
--   ![](https://img.icons8.com/color/48/000000/eleventy.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png) | [Voilatin](http://voilatin.vercel.app/)
+-   ![](https://img.icons8.com/color/48/000000/eleventy.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png)
+[Voilatin](http://voilatin.vercel.app/)
 
 ---
 
--   ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png) | [Date Off](http://dateoff.netlify.app/)
-
----
-
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) (https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png) | [Lucfreelance 2023 Portfolio]
-
----
-
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png) | [Komensal](http://lucfreelance.github.io/komensal/)
-
+-   ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
+[Date Off](http://dateoff.netlify.app/)
 ---
 
 -   ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png) | [oi-ia](http://oportunidadesilimitadas.com/)
