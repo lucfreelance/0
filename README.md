@@ -1,58 +1,40 @@
-# Portfolio 2023 by @lucfreelance <lucfreelance@gmail.com>
+# Showcase 2023 by Lucfreelance <lucfreelance.vercel.app>
 
-Contains websites framed from famous frameworks and build languages:
+This digital showcase Contains websites framed from famous frameworks and code languages:
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _2_ [Reto PC](http://lucfreelance.github.io/reto-pc/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) | [Reto PC](http://lucfreelance.github.io/reto-pc/)
 
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) _3_ [Komensal](http://lucfreelance.github.io/komensal/) | ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+---
 
--   ![](https://img.icons8.com/color/48/000000/vite.png) _4_ [ultraspaces](http://ultraspaces.netlify.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png)
+-   ![](https://img.icons8.com/color/48/000000/vite.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/typescript.png) | [ultraspaces](http://ultraspaces.netlify.app/)
 
--   ![](https://img.icons8.com/color/48/000000/jekyll.png) _8_ [TDRDT](http://lucfreelance.github.io/tdrdt/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png)
+---
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _1_ [Positiva Cali](http://positiva-cali.vercel.app/) | ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png) | [TDRDT](http://lucfreelance.github.io/tdrdt/)
 
--   ![](https://img.icons8.com/color/48/000000/eleventy.png) _7_ [Voilatin](http://voilatin.vercel.app/) | ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png)
+---
 
--   ![](https://img.icons8.com/color/48/000000/javascript.png) _9_ [oi-ia](http://oportunidadesilimitadas.com/) | ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png)
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/color/48/000000/golang.png) ![](https://img.icons8.com/color/48/000000/css3.png) | [Positiva Cali](http://positiva-cali.vercel.app/)
 
--   ![](https://img.icons8.com/color/48/000000/astro.png) _6_ [Date Off](http://dateoff.netlify.app/) | ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png)
+---
 
--   ![](https://img.icons8.com/color/48/000000/bootstrap.png) _0_ [Lucfreelance 2023 Portfolio](https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+-   ![](https://img.icons8.com/color/48/000000/eleventy.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/nunjucks.png) | [Voilatin](http://voilatin.vercel.app/)
 
-## Based in
+---
 
-[Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
+-   ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/astro.png) ![](https://img.icons8.com/color/48/000000/electron.png) ![](https://img.icons8.com/color/48/000000/flutter.png) | [Date Off](http://dateoff.netlify.app/)
 
-This project was builded from [One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/) is a basic one page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+---
 
-## Status
+-   ![](https://img.icons8.com/color/48/000000/bootstrap.png) (https://lucfreelance.vercel.app/) | ![](https://img.icons8.com/color/48/000000/pug.png) ![](https://img.icons8.com/color/48/000000/css3.png) | [Lucfreelance 2023 Portfolio]
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-one-page-wonder/master/LICENSE)
+---
 
-[![npm version](https://img.shields.io/npm/v/startbootstrap-one-page-wonder.svg)](https://www.npmjs.com/package/startbootstrap-one-page-wonder)
+-   ![](https://img.icons8.com/color/48/000000/jekyll.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/ruby.png) | [Komensal](http://lucfreelance.github.io/komensal/)
 
-## Download and Installation
+---
 
-To begin using this template, choose one of the following options to get started:
-
--   [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
-
--   Install via npm: `npm i startbootstrap-one-page-wonder`
-
--   Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
-
--   [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+-   ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/php.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/color/48/000000/handlebarsjs.png) | [oi-ia](http://oportunidadesilimitadas.com/)
 
 ## npm Scripts
 
@@ -192,6 +174,40 @@ You must have npm installed in order to use this build environment.
 -   :gear: CodeIgniter
 -   :gear: Play Framework
 -   :gear: Xamarin
+
+## Based in
+
+[Start Bootstrap - One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/)
+
+This project was builded from [One Page Wonder](https://startbootstrap.com/theme/one-page-wonder/) is a basic one page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+
+## Status
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-one-page-wonder/master/LICENSE)
+
+[![npm version](https://img.shields.io/npm/v/startbootstrap-one-page-wonder.svg)](https://www.npmjs.com/package/startbootstrap-one-page-wonder)
+
+## Download and Installation
+
+To begin using this template, choose one of the following options to get started:
+
+-   [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/)
+
+-   Install via npm: `npm i startbootstrap-one-page-wonder`
+
+-   Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-one-page-wonder.git`
+
+-   [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-one-page-wonder)
+
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
 ## Nice Commands
 
